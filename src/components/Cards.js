@@ -24,7 +24,6 @@ function Cards(props){
             return courses[category];
         }
     }
-  
     return (
         <div className="flex flex-wrap justify-center gap-4 mb-4">
             {
